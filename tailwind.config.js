@@ -10,6 +10,12 @@ module.exports = {
         alata: ["Alata", "sans-serif"],
         josefin: ["Josefin Sans", "sans-serif"],
       },
+      colors: {
+        "p-white": "hsl(0, 0%, 100%)",
+        "p-black": "hsl(0, 0%, 0%)",
+        "p-darkGray": "hsl(0, 0%, 55%)",
+        "p-veryDarkGray": "hsl(0, 0%, 41%)",
+      },
     },
   },
   plugins: [],
