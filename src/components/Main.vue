@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-p-white px-6">
+  <section class="bg-p-white px-6 py-24">
     <VR />
   </section>
 </template>
