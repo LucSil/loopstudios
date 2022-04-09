@@ -26,3 +26,6 @@ img {
 .above {
   @apply w-32;
 }
+.footLinkTxt {
+  @apply mb-4;
+}
