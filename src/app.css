@@ -5,8 +5,24 @@
 @tailwind utilities;
 
 body {
-  @apply text-[15px];
+  @apply text-[15px] cursor-default;
 }
 img {
   @apply w-full;
+}
+
+.imgDiv {
+  @apply relative mb-6 cursor-pointer;
+}
+.imgDiv picture {
+  @apply brightness-50;
+}
+.imgTxt {
+  @apply absolute ml-5 top-12 w-28 leading-6 text-2xl font-josefin text-p-white;
+}
+.car {
+  @apply w-24;
+}
+.above {
+  @apply w-32;
 }
