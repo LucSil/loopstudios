@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 body {
-  @apply text-[15px] cursor-default;
+  @apply text-[15px] cursor-default scroll-smooth;
 }
 img {
   @apply w-full;
@@ -27,5 +27,8 @@ img {
   @apply w-32;
 }
 .footLinkTxt {
+  @apply mb-4;
+}
+.mainLink {
   @apply mb-4;
 }
