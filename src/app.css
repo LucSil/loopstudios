@@ -18,7 +18,7 @@ img {
   @apply brightness-50;
 }
 .imgTxt {
-  @apply absolute ml-5 top-12 sm:top-[230px] w-28 leading-6 text-2xl font-josefin text-p-white;
+  @apply absolute ml-5 top-12 sm:top-[230px] lg:top-64 w-28 leading-6 text-2xl font-josefin text-p-white;
 }
 .car {
   @apply w-24;
@@ -33,7 +33,7 @@ img {
   @apply mb-4 sm:mb-0;
 }
 .imp {
-  @apply mr-4;
+  @apply mr-8;
 }
 .impTwo {
   @apply sm:mr-4;
