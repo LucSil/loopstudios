@@ -30,5 +30,8 @@ img {
   @apply mb-4;
 }
 .mainLink {
-  @apply mb-4;
+  @apply mb-4 sm:mb-0;
+}
+.imp {
+  @apply mr-4;
 }
