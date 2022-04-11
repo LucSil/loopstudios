@@ -12,13 +12,13 @@ img {
 }
 
 .imgDiv {
-  @apply relative mb-6 cursor-pointer;
+  @apply relative mb-6 sm:mb-0 cursor-pointer;
 }
 .imgDiv picture {
   @apply brightness-50;
 }
 .imgTxt {
-  @apply absolute ml-5 top-12 w-28 leading-6 text-2xl font-josefin text-p-white;
+  @apply absolute ml-5 top-12 sm:top-[230px] w-28 leading-6 text-2xl font-josefin text-p-white;
 }
 .car {
   @apply w-24;

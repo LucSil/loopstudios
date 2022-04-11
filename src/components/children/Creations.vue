@@ -1,7 +1,16 @@
 <template>
   <section class="mt-20 grid">
-    <h2 class="text-[32px] font-josefin text-center mb-8">OUR CREATIONS</h2>
-    <div>
+    <div class="sm:flex sm:justify-between sm:items-center sm:mb-10">
+      <h2 class="text-[32px] font-josefin text-center mb-8 sm:mb-0">
+        OUR CREATIONS
+      </h2>
+      <button
+        class="hidden sm:block border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black"
+      >
+        SEE ALL
+      </button>
+    </div>
+    <div class="sm:grid sm:grid-cols-4 sm:gap-4">
       <div class="imgDiv">
         <div>
           <picture>
@@ -150,7 +159,7 @@
       </div>
     </div>
     <button
-      class="mt-4 place-self-center border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black"
+      class="sm:hidden mt-4 place-self-center border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black"
     >
       SEE ALL
     </button>
