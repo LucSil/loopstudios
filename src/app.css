@@ -27,11 +27,14 @@ img {
   @apply w-32;
 }
 .footLinkTxt {
-  @apply mb-4;
+  @apply mb-4 sm:mb-0;
 }
 .mainLink {
   @apply mb-4 sm:mb-0;
 }
 .imp {
   @apply mr-4;
+}
+.impTwo {
+  @apply sm:mr-4;
 }
