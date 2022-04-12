@@ -1,9 +1,9 @@
 <template>
   <section
-    class="bg-black py-14 grid place-items-center sm:flex sm:px-6 sm:justify-between sm:items-center sm:py-8"
+    class="bg-black py-14 sm:py-8 lg:py-10 grid place-items-center sm:flex sm:px-6 lg:px-40 sm:justify-between sm:items-center"
   >
     <div>
-      <div class="w-40 mb-8 sm:mb-2">
+      <div class="w-40 mb-8 sm:mb-2 lg:mb-3">
         <img src="../assets/images/svg/logo.svg" />
       </div>
       <ul
@@ -28,7 +28,7 @@
     </div>
     <div class="sm:justify-end">
       <div class="flex justify-center sm:justify-end">
-        <ul class="flex justify-between items-center w-40 mb-4 sm:mb-2">
+        <ul class="flex justify-between items-center w-40 mb-4 sm:mb-2 lg:mb-4">
           <li>
             <a href="#">
               <img

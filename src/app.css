@@ -42,5 +42,5 @@ img {
   @apply mr-8;
 }
 .impTwo {
-  @apply sm:mr-4;
+  @apply sm:mr-4 lg:mr-8;
 }
