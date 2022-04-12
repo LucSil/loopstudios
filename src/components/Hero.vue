@@ -24,11 +24,41 @@
         <ul
           class="sm:flex hidden text-white font-alata justify-between items-center lg:text-base"
         >
-          <li class="mainLink imp"><a href="#">About</a></li>
-          <li class="mainLink imp"><a href="#">Careers</a></li>
-          <li class="mainLink imp"><a href="#">Events</a></li>
-          <li class="mainLink imp"><a href="#">Products</a></li>
-          <li class="mainLink"><a href="#">Support</a></li>
+          <li class="mainLink imp group grid place-items-center">
+            <a href="#">About</a>
+            <span
+              class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-white"
+            >
+            </span>
+          </li>
+          <li class="mainLink imp group grid place-items-center">
+            <a href="#">Careers</a>
+            <span
+              class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-white"
+            >
+            </span>
+          </li>
+          <li class="mainLink imp group grid place-items-center">
+            <a href="#">Events</a>
+            <span
+              class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-white"
+            >
+            </span>
+          </li>
+          <li class="mainLink imp group grid place-items-center">
+            <a href="#">Products</a>
+            <span
+              class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-white"
+            >
+            </span>
+          </li>
+          <li class="mainLink group grid place-items-center">
+            <a href="#">Support</a>
+            <span
+              class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-white"
+            >
+            </span>
+          </li>
         </ul>
       </section>
 
