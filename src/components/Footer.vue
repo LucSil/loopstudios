@@ -28,35 +28,51 @@
     </div>
     <div class="sm:justify-end">
       <div class="flex justify-center sm:justify-end">
-        <ul class="flex justify-between items-center w-40 mb-4 sm:mb-2 lg:mb-4">
-          <li>
+        <ul class="flex justify-between items-center w-40 mb-4 sm:mb-2 lg:mb-1">
+          <li class="group">
             <a href="#">
               <img
                 src="../assets/images/svg/icon-facebook.svg"
                 alt="facebook"
               />
             </a>
+            <span
+              class="group-hover:opacity-100 block transition-all lg:w-full lg:h-[2px] lg:rounded-full lg:mt-1 opacity-0 lg:bg-neutral-300"
+            >
+            </span>
           </li>
-          <li>
+          <li class="group">
             <a href="#">
               <img src="../assets/images/svg/icon-twitter.svg" alt="twitter" />
             </a>
+            <span
+              class="lg:w-full lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+            >
+            </span>
           </li>
-          <li>
+          <li class="group">
             <a href="#">
               <img
                 src="../assets/images/svg/icon-pinterest.svg"
                 alt="pinterest"
               />
             </a>
+            <span
+              class="lg:w-full lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+            >
+            </span>
           </li>
-          <li>
+          <li class="group">
             <a href="#">
               <img
                 src="../assets/images/svg/icon-instagram.svg"
                 alt="instagram"
               />
             </a>
+            <span
+              class="lg:w-full lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+            >
+            </span>
           </li>
         </ul>
       </div>
