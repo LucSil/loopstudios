@@ -9,20 +9,40 @@
       <ul
         class="mb-10 sm:mb-0 text-white font-alata grid place-items-center sm:flex"
       >
-        <li class="footLinkTxt impTwo">
+        <li class="footLinkTxt impTwo group grid place-items-center">
           <a href="#">About</a>
+          <span
+            class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+          >
+          </span>
         </li>
-        <li class="footLinkTxt impTwo">
+        <li class="footLinkTxt impTwo group grid place-items-center">
           <a href="#">Careers</a>
+          <span
+            class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+          >
+          </span>
         </li>
-        <li class="footLinkTxt impTwo">
+        <li class="footLinkTxt impTwo group grid place-items-center">
           <a href="#">Events</a>
+          <span
+            class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+          >
+          </span>
         </li>
-        <li class="footLinkTxt impTwo">
+        <li class="footLinkTxt impTwo group grid place-items-center">
           <a href="#">Products</a>
+          <span
+            class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+          >
+          </span>
         </li>
-        <li class="footLinkTxt">
+        <li class="footLinkTxt group grid place-items-center">
           <a href="#">Support</a>
+          <span
+            class="lg:w-6 lg:h-[2px] lg:rounded-full lg:mt-1 block opacity-0 group-hover:opacity-100 transition-all lg:bg-neutral-300"
+          >
+          </span>
         </li>
       </ul>
     </div>
