@@ -1,16 +1,18 @@
 <template>
-  <section class="mt-20 grid">
-    <div class="sm:flex sm:justify-between sm:items-center sm:mb-10">
-      <h2 class="text-[32px] font-josefin text-center mb-8 sm:mb-0">
+  <section class="mt-20 grid lg:mt-36 lg:px-40 lg:mb-14">
+    <div
+      class="sm:flex sm:justify-between sm:align-middle sm:items-center sm:mb-10 lg:mb-14"
+    >
+      <h2 class="text-[32px] lg:text-4xl font-josefin text-center mb-8 sm:mb-0">
         OUR CREATIONS
       </h2>
       <button
-        class="hidden sm:block border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black"
+        class="hidden sm:block border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black lg:text-sm"
       >
         SEE ALL
       </button>
     </div>
-    <div class="sm:grid sm:grid-cols-4 sm:gap-4">
+    <div class="sm:grid sm:grid-cols-4 sm:gap-4 lg:gap-6">
       <div class="imgDiv">
         <div>
           <picture>
@@ -65,7 +67,7 @@
               alt="Soccer player"
             />
           </picture>
-          <span class="imgTxt">SOCCER TEAM VR</span>
+          <span class="imgTxt soccer">SOCCER TEAM VR</span>
         </div>
       </div>
       <div class="imgDiv">
@@ -154,7 +156,7 @@
               alt="fisheye view"
             />
           </picture>
-          <span class="imgTxt">MAKE IT FISHEYE</span>
+          <span class="imgTxt fish">MAKE IT FISHEYE</span>
         </div>
       </div>
     </div>

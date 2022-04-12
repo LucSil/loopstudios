@@ -18,13 +18,19 @@ img {
   @apply brightness-50;
 }
 .imgTxt {
-  @apply absolute ml-5 top-12 sm:top-[230px] lg:top-64 w-28 leading-6 text-2xl font-josefin text-p-white;
+  @apply absolute ml-5 lg:ml-10 top-12 sm:top-[230px] md:top-64 lg:top-80 w-28  leading-6 text-2xl lg:text-3xl font-josefin text-p-white;
+}
+.soccer {
+  @apply lg:w-36;
 }
 .car {
   @apply w-24;
 }
 .above {
-  @apply w-32;
+  @apply w-32 lg:w-40;
+}
+.fish {
+  @apply lg:w-36;
 }
 .footLinkTxt {
   @apply mb-4 sm:mb-0;
