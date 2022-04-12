@@ -32,7 +32,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt">DEEP EARTH</span>
+          <span
+            class="relative z-20 group-hover:text-black transition-all imgTxt"
+            >DEEP EARTH</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -54,7 +57,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt">NIGHT ARCADE</span>
+          <span
+            class="relative z-20 group-hover:text-black transition-all imgTxt"
+            >NIGHT ARCADE</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -76,7 +82,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt soccer">SOCCER TEAM VR</span>
+          <span
+            class="imgTxt soccer relative z-20 group-hover:text-black transition-all"
+            >SOCCER TEAM VR</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -95,7 +104,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt car">THE GRID</span>
+          <span
+            class="imgTxt car relative z-20 group-hover:text-black transition-all"
+            >THE GRID</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -114,7 +126,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt above">FROM UP ABOVE VR</span>
+          <span
+            class="imgTxt above relative z-20 group-hover:text-black transition-all"
+            >FROM UP ABOVE VR</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -136,7 +151,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt">POCKET BOREALIS</span>
+          <span
+            class="imgTxt relative z-20 group-hover:text-black transition-all"
+            >POCKET BOREALIS</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -158,7 +176,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt">THE CURIOSITY</span>
+          <span
+            class="imgTxt relative z-20 group-hover:text-black transition-all"
+            >THE CURIOSITY</span
+          >
         </div>
       </div>
       <div class="imgDiv group">
@@ -180,7 +201,10 @@
           <div
             class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
           ></div>
-          <span class="imgTxt fish">MAKE IT FISHEYE</span>
+          <span
+            class="imgTxt fish relative z-20 group-hover:text-black transition-all"
+            >MAKE IT FISHEYE</span
+          >
         </div>
       </div>
     </div>
