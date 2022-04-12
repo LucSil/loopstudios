@@ -7,14 +7,14 @@
         OUR CREATIONS
       </h2>
       <button
-        class="hidden sm:block border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black lg:text-sm"
+        class="hidden sm:block border-2 py-2 px-10 tracking-[0.3em] border-black font-alata text-black lg:text-sm lg:hover:bg-black lg:hover:text-white transition-all"
       >
         SEE ALL
       </button>
     </div>
     <div class="sm:grid sm:grid-cols-4 sm:gap-4 lg:gap-6">
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -29,11 +29,14 @@
               alt="Earth"
             />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt">DEEP EARTH</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -48,11 +51,14 @@
               alt="Arcade arena"
             />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt">NIGHT ARCADE</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -67,11 +73,14 @@
               alt="Soccer player"
             />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt soccer">SOCCER TEAM VR</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -83,11 +92,14 @@
             />
             <img src="../../assets/images/pic/car-desk.jpg" alt="Race car" />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt car">THE GRID</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -99,11 +111,14 @@
             />
             <img src="../../assets/images/pic/above-desk.jpg" alt="pathway" />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt above">FROM UP ABOVE VR</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -118,11 +133,14 @@
               alt="borealis"
             />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt">POCKET BOREALIS</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -137,11 +155,14 @@
               alt="space tools"
             />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt">THE CURIOSITY</span>
         </div>
       </div>
-      <div class="imgDiv">
-        <div>
+      <div class="imgDiv group">
+        <div class="relative">
           <picture>
             <source
               media="(min-width:500px)"
@@ -156,6 +177,9 @@
               alt="fisheye view"
             />
           </picture>
+          <div
+            class="w-full h-full group-hover:opacity-70 transition-all opacity-0 bg-white absolute top-0 z-10"
+          ></div>
           <span class="imgTxt fish">MAKE IT FISHEYE</span>
         </div>
       </div>
