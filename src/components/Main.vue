@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-p-white px-6 py-24">
+  <section class="bg-p-white px-6 py-24 lg:mt-4 lg:px-0">
     <VR />
     <Creations />
   </section>
