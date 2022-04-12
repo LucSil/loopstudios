@@ -12,7 +12,7 @@
       <img src="../../assets/images/pic/vr-desk.jpg" alt="Man with VR set" />
     </picture>
     <div
-      class="mt-10 sm:mt-2 lg:relative lg:bg-white lg:w-[37.5rem] lg:p-20 lg:top-40"
+      class="mt-10 sm:mt-2 lg:relative lg:bg-white lg:w-[37.5rem] lg:p-20 lg:top-40 lg:h-max"
     >
       <h1
         class="text-[32px] leading-9 mb-6 font-josefin text-center sm:text-left sm:pl-6 lg:pl-0"
