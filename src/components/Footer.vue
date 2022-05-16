@@ -1,6 +1,6 @@
 <template>
   <section
-    class="bg-black py-14 sm:py-8 lg:py-10 grid place-items-center sm:flex sm:px-6 lg:px-40 sm:justify-between sm:items-center"
+    class="relative bottom-0 bg-black py-14 sm:py-8 lg:py-10 grid place-items-center sm:flex sm:px-6 lg:px-40 sm:justify-between sm:items-center"
   >
     <div>
       <div class="w-40 mb-8 sm:mb-2 lg:mb-3">
